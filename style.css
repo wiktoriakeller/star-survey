@@ -39,18 +39,15 @@ body {
 }
 
 .icon {
-    display: flex;
+    padding-top: 5px;
     margin-left: 10px;
     margin-right: auto;
-    align-items: center;
     text-decoration: none;
 }
 
 .image-icon {
     width: 1.8em;
     height: 1.6em;
-    text-align: center;
-    text-decoration: none;
 }
 
 .image-icon:hover {
